@@ -1,5 +1,5 @@
 - Yo,I'm Omar
-- I’m currently studying Computer Science
+- I’m a Computer Science undergrad
 - You can reach me by my email
 <!---
 OmarAzizi/OmarAzizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
