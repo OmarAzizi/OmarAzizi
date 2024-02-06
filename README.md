@@ -26,6 +26,3 @@ My areas of intrest are:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OmarAzizi&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OmarAzizi&limit=5&theme=dracula&combine_all_yearly_contributions=true)
