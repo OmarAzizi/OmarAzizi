@@ -29,6 +29,3 @@ My areas of intrest are:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OmarAzizi&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=OmarAzizi&icon=0&color=0)](https://visitcount.itsvg.in)
