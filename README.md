@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=flat-square&logo=github)](https://github.com/YourGitHubUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-blue?style=flat-square&logo=github)](https://github.com/OmarAzizi)
 # 💫 About Me:
 I'm a third-year Computer Science student currently working on some projects related to Operating Systems and Kernel development, as well as other ones related to low-level programming on Linux systems (Linux systems programming), the libraries available on it, and their APIs. I'm mainly undertaking these projects to deepen my understanding of these topics.
 
