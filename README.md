@@ -22,6 +22,3 @@ Feel free to ask me anything you'd like. Additionally, if you can assist me in m
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OmarAzizi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=OmarAzizi&icon=8&color=9)](https://visitcount.itsvg.in)
-
