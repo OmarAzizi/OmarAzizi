@@ -11,8 +11,7 @@ Feel free to ask me anything you'd like. Additionally, if you can assist me in m
 
 My areas of intrest are:
 1. Low-level programming
-2. Programming languages
-3. Interpreters & Compilers
+2. Interpreters & Compilers
 4. Blockchain
 5. Machine learning & Deep learning
 
