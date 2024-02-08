@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-OmarAzizi-blue?style=flat-square&logo=github)](https://github.com/OmarAzizi)
 
 # 💫 About Me:
-I'm a third-year Computer Science student currently working on some projects related to Operating Systems, Kernel development, Compilers & Interpreters, as well as other ones related to low-level programming on Linux systems (Linux systems programming), the libraries available on it, and their APIs. I'm mainly undertaking these projects to deepen my understanding of these topics.
+I'm a third-year Computer Science student currently working on some projects related to Operating Systems, Kernel development, Compilers & Interpreters, as well as other ones related to low-level programming on Linux systems (Linux systems programming), the libraries available on it, and their APIs. I'm mainly undertaking these projects to deepen my understanding of these topics, so by all means i'm no expert.
 
 
 Also I'm currently engaged in learning about creating programming languages, along with their compilers and interpreters.
