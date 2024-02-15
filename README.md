@@ -10,9 +10,11 @@ Also I'm currently engaged in learning about creating programming languages, alo
 Feel free to ask me anything you'd like. Additionally, if you can assist me in my learning process by contributing to my repositories or providing resources on these topics, I would greatly appreciate it.
 
 My areas of intrest are:
-1. Low-level programming
+1. Low-level (System) programming
 2. Operating Systems & Kernel Development
 3. Interpreters & Compilers
+4. Hardware Related Things (Computer Architecture)
+5. Graphics Programming
 
 # ⚙️ Technologies & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Assembly Icon](https://img.shields.io/badge/x86-Assembly-green?style=for-the-badge&logo=assembly) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
