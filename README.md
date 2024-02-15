@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-OmarAzizi-blue?style=flat-square&logo=github)](https://github.com/OmarAzizi)
 
-# 💫 About Me
+# About Me
 I'm a third-year Computer Science student currently working on some projects related to Operating Systems, Kernel development, as well as other ones related to low-level programming on Linux systems (Linux systems programming), the libraries available on it, and their APIs. I'm mainly undertaking these projects to deepen my understanding of these topics, so by all means i'm no expert.
 
 
@@ -10,7 +10,7 @@ Also I'm currently engaged in learning about creating programming languages, alo
 Feel free to ask me anything you'd like. Additionally, if you can assist me in my learning process by contributing to my repositories or providing resources on these topics, I would greatly appreciate it.
 
 My areas of intrest are:
-1. Low-level (System) programming
+1. Low-level (System) Programming
 2. Operating Systems & Kernel Development
 3. Interpreters & Compilers
 4. Hardware Related Things (Computer Architecture)
