@@ -24,5 +24,3 @@ My areas of intrest are:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmarAzizi&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAzizi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=OmarAzizi&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
