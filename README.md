@@ -1,20 +1,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-OmarAzizi-blue?style=flat-square&logo=github)](https://github.com/OmarAzizi)
 
 # About Me
-I'm a third-year Computer Science student currently working on some projects related to Operating Systems, Kernel development, as well as other ones related to low-level programming on Linux systems (Linux systems programming), the libraries available on it, and their APIs. I'm mainly undertaking these projects to deepen my understanding of these topics, so by all means i'm no expert.
+I'm a third-year Computer Science student currently working on some projects related to Operating Systems and kernel development, as well as other ones related to low-level programming on Linux systems (Linux systems programming), the libraries available on it, and their APIs. I'm mainly undertaking these projects to deepen my understanding of these topics, so by all means I'm no expert.
 
 
-Also I'm currently engaged in learning about creating programming languages, along with their compilers and interpreters.
+Also, I'm currently engaged in learning about creating programming languages, along with their compilers and interpreters.
 
 
 Feel free to ask me anything you'd like. Additionally, if you can assist me in my learning process by contributing to my repositories or providing resources on these topics, I would greatly appreciate it.
 
-My areas of intrest are:
+My areas of interest are:
 1. Low-level (System) Programming
 2. Operating Systems & Kernel Development
 3. Interpreters & Compilers
 4. Hardware Related Things (Computer Architecture)
-5. Graphics Programming
 
 # ⚙️ Technologies & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Assembly Icon](https://img.shields.io/badge/x86-Assembly-green?style=for-the-badge&logo=assembly) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
