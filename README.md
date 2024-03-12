@@ -1,4 +1,4 @@
-![image](https://github.com/OmarAzizi/OmarAzizi/assets/110500643/ad757fef-9a25-494d-a142-824b73029b7d)
+![image](https://github.com/OmarAzizi/OmarAzizi/assets/110500643/d6ccccea-b3b7-4ad0-a5c5-0b01d24a7917)
 
 
 # About Me
