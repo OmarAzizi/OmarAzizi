@@ -1,4 +1,4 @@
-![image](https://github.com/OmarAzizi/OmarAzizi/assets/110500643/9605f24f-c6aa-4e7e-adbd-e39c530db4c6)
+![image](https://github.com/OmarAzizi/OmarAzizi/assets/110500643/29bffa07-e7d3-4692-a1a8-216f89ba316a)
 
 # About Me
 [![GitHub](https://img.shields.io/badge/GitHub-OmarAzizi-blue?style=flat-square&logo=github)](https://github.com/OmarAzizi)
