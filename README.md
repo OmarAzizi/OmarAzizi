@@ -24,6 +24,6 @@ My areas of interest are:
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAzizi&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAzizi&theme=dracula&hide_border=true" alt="GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAzizi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
