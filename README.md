@@ -2,7 +2,8 @@
 
 
 # About Me
-[![committers.top badge](https://user-badge.committers.top/jordan/OmarAzizi.svg)](https://user-badge.committers.top/jordan/OmarAzizi)
+[![GitHub](https://img.shields.io/badge/GitHub-OmarAzizi-181717?logo=github)](https://github.com/YourUsername)
+
 
 I'm a third-year Computer Science student currently working on some projects related to Operating Systems and kernel development, as well as other ones related to low-level programming on Linux systems (Linux systems programming), the libraries available on it, and their APIs. I'm mainly undertaking these projects to deepen my understanding of these topics, so by all means I'm no expert.
 
